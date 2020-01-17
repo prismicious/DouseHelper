@@ -1,0 +1,12 @@
+#### TODO LISTE
+
+- Tilføj AceComm3.0 funktionalitet
+
+ - Send besked til alle med addon'et med index og tilføj deres <playername> has doused <boss name> til alle med addon'et OnValueChanged i checkboxe
+
+FUTURE WORK
+- Omskriv så addon tager højde for automatisk afcheckning af douses i tabellen; 
+---> Fremgangsmåde
+- Check om en af bosserne lige er død
+- Find API kald til at checke om douse-buffen bliver brugt af spillere med addon indenfor et bestemt interval efter en boss er død
+- Skift Checkbox for boss til checked og skriv (med rød skrift) "<bossname> has been doused by <playerName> 
