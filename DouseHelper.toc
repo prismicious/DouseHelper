@@ -1,0 +1,9 @@
+## Interface: 40000
+## Title: DouseHelper
+## Notes: Some notes about this addon.
+## Author: Prisimo
+## Version: 0.1
+
+embeds.xml
+
+Core.lua
